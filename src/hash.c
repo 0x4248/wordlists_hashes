@@ -1,6 +1,8 @@
 /**
  * Hash - turns a wordlist into a csv containing the string, SHA256, and MD5
  * Github: https://www.github.com/awesomelewis2007/hash
+ * Licence: GPL-3.0
+ * By: Lewis Evans
 */
 #include <stdio.h>
 #include <stdlib.h>
